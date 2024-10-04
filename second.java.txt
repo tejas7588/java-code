@@ -1,6 +1,7 @@
 first.java
 public class First{
 System.out.println("hello world");
-System.oot.println("hiiii trjas here");
+System.out.println("hiiii trjas here");
+System.out.println("new file");
 
 }
